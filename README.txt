@@ -1,0 +1,1 @@
+ref: http://wiki.kerbalspaceprogram.com/wiki/CFG_File_Documentation
